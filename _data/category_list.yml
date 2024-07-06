@@ -4,9 +4,3 @@
 mod-yükleyicileri:
   name: Mod Yükleyicileri
   description: Mod Yükleyicileri ile ilgili herşeyi öğrenme vakti!
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
