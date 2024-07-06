@@ -1,9 +1,9 @@
 #This file defines all the categories you are using
 
 
-using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
+mod-yükleyicileri:
+  name: Mod Yükleyicileri
+  description: Mod Yükleyicileri ile ilgili herşeyi öğrenme vakti!
 using-odin:
   name: Using Odin
   description: Welcome to Odin, time to get started
