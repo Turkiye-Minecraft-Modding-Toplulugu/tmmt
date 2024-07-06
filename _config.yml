@@ -24,7 +24,7 @@ baseurl: / # the subpath of your site, e.g. /support
 url: https://tmmt.axolotldev.online/ # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
+content_type: Bilgi Merkezi #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
@@ -45,10 +45,10 @@ instagram_username:
 
 # Navivation
 nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one_link: 
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two_link: https://x.com/axolotlagatsuma
 
 nav_item_three: Discord
 nav_item_three_link: https://tmmt.axolotldev.online/discord/
@@ -57,10 +57,10 @@ nav_button: Ana Sayfaya Dön
 nav_button_link: https://tmmt.axolotldev.online/
 
 # More Help
-help_one_title: CurseForge organizasyonumuz
-help_one_content: #
-help_one_button: CurseForge
-help_one_link: #
+help_one_title: Twitter / X
+help_one_content: "Twitter'dan yazabilirsiniz."
+help_one_button: Twitter / X
+help_one_link: https://x.com/axolotlagatsuma
 
 help_two_title: Discord
 help_two_content: Katılıp soru sormaktan çekinmeyin.
